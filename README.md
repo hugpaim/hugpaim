@@ -3,25 +3,18 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </header>
 
-<div>
+<div style="display: inline_block" theme="dracula">
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=hugpaim&show_icons=true&theme=dracula"
-  media="(prefers-color-scheme: dark)"
-/>
+  srcset="https://github-readme-stats.vercel.app/api?username=hugpaim&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark)"/>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=hugpaim&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
+  srcset="https://github-readme-stats.vercel.app/api?username=hugpaim&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
 <img src="https://github-readme-stats.vercel.app/api?username=hugpaim&show_icons=true" />
 </picture>
-
-<div>
- 
+<img heigth="490" width="490" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugpaim&layout=compact&theme=dracula"/>
 </div>
 
-</div>
-
+  
 <div style="display: inline_block">
 <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
