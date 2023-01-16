@@ -3,8 +3,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div style="display: inline_block">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hugpaim&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark)"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugpaim&layout=compact&theme=dracula"/>
+<img height="180" img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hugpaim&&show_icons=true&theme=dracula"/>
+<img height="180" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugpaim&theme=dracula&layout=compact"/>
 </div>
   
 <div style="display: inline_block">
