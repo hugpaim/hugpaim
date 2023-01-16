@@ -17,12 +17,7 @@
 </picture>
 
 <div>
- <a href="https://github.com/hugpaim/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugpaim&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/hugpaim/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugpaim&repo=convoychat" />
-</a>
+ 
 </div>
 
 </div>
