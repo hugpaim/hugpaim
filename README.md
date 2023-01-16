@@ -1,4 +1,4 @@
-## Hello there! My name is Hugo Paim, and I'm a Junior FullStack Develper. NIce to meet you
+## Hello there! My name is Hugo Paim, and I'm a Junior FullStack Develper.
 <header>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </header>
@@ -32,3 +32,7 @@
 <img heigth="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img heigth="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 </div>
+
+##
+
+<a href="https://www.linkedin.com/in/hugo-paim-244012108/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
