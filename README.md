@@ -10,21 +10,20 @@
 <a href="https://www.javascript.com/"/><img align="center"heigth="45"width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
 <a href="https://www.w3schools.com/css/"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/></a>
 <a href="https://www.w3schools.com/html/"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/></a>
-<a href="https://www.google.com"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/></a>
-<a href="https://www.google.com"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<a href="https://www.google.com"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></a>
-<a href="https://www.google.com"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
-<a href="https://www.google.com"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/></a>
-<a href="https://www.google.com"/><img align="center" heigth="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
-<a href="https://www.google.com"/><img align="center" heigth="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/></a>
-<a href="https://www.google.com"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/></a>  
-<a href="https://www.google.com"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a>
-<a href="https://www.google.com"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/></a>
-<a href="https://www.google.com"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/></a>  
-<a href="https://www.google.com"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/></a>
-<a href="https://www.google.com"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/></a>
-<a href="https://www.google.com"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/></a>
-<a href="https://www.google.com.br"/><img align="center" heigth="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></a>
+<a href="https://reactjs.org/"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/></a>
+<a href="https://reactnative.dev/"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<a href="https://getbootstrap.com/"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></a>
+<a href="https://nodejs.org/en/about/"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
+<a href="https://www.npmjs.com/"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/></a>
+<a href="https://git-scm.com/"/><img align="center" heigth="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
+<a href="https://www.mongodb.com/"/><img align="center" heigth="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/></a>
+<a href="https://www.postgresql.org/"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/></a>  
+<a href="https://www.mysql.com/"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a>
+<a href="https://www.r-project.org/"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/></a> 
+<a href="https://www.python.org/"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/></a> 
+<a href="https://numpy.org/"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/></a>
+<a href="https://pandas.pydata.org/"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/></a>
+<a href="https://www.tensorflow.org/"/><img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/></a>
 </div>
 
 ##
