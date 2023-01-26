@@ -1,17 +1,18 @@
- ## <p align="center"> Hello There! </p>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<div style="text-align:left;"> 
- <p>I'm Hugo Paim, a passionate self-taught full stack web developer from Portugal. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
-</p>
+<h2 align="center">Hello There!:wave:</h2>
+
+<div style="text-align:center;"> 
+ I'm Hugo Paim, a passionate self-taught full stack web developer from Portugal. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 </div>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+##
 
 <p align="center">
 <img height="165" img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hugpaim&&show_icons=true&theme=dracula"/>
 </p>
 
- ## <p align="center">Languages and Tools</p>
+<h2 align="center">Languages and Tools</h2>
 
 <div style="display: inline_block">
 <a href="https://www.javascript.com/"/><img align="center"heigth="40"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
