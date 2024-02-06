@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<h2 align="center">Hello There!:wave:</h2>
+<h2 align="center">Hello There!</h2>
 
 <div style="text-align:center;"> 
  I'm Hugo Paim, a passionate self-taught full stack web developer from Portugal. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
