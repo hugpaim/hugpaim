@@ -52,26 +52,16 @@ managing **multi-cloud infrastructure (AWS + Azure)**, automating deployments, a
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugpaim/hugpaim/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugpaim/hugpaim/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hugpaim/hugpaim/output/pacman-contribution-graph.svg">
+</picture>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hugpaim&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugpaim&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hugpaim&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hugpaim&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
