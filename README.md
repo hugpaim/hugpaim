@@ -18,6 +18,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
+
 <!-- Cloud -->
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -58,6 +59,13 @@ managing **multi-cloud infrastructure (AWS + Azure)**, automating deployments, a
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hugpaim/hugpaim/output/pacman-contribution-graph.svg">
 </picture>
 
+<p align="center">
+  
+<img height="160" src="https://github-readme-stats-eight-lilac-37.vercel.app/api?username=hugpaim&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="160" src="https://github-readme-stats-eight-lilac-37.vercel.app/api/top-langs/?username=hugpaim&layout=compact&langs_count=6&theme=github_dark&hide_border=true"/>
+
+
+</p>
 
 <div align="center">
 
